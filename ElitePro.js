@@ -1,6 +1,6 @@
 require('./lib/listmenu.js')
 const {
-	downloadContentFromMessage,
+downloadContentFromMessage,
     BufferJSON,
     WA_DEFAULT_EPHEMERAL,
     generateWAMessageFromContent,
